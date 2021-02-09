@@ -1,12 +1,11 @@
-package edu.uoc.lti.jwt.deeplink;
+package edu.uoc.lti.jwt.km.deeplink;
 
 import edu.uoc.lti.claims.ClaimsEnum;
 import edu.uoc.lti.deeplink.DeepLinkingResponse;
 import edu.uoc.lti.deeplink.DeepLinkingTokenBuilder;
 import edu.uoc.lti.ResponseMessageTypeEnum;
-import edu.uoc.lti.jwt.kms.JwtKMSBuilder;
+import edu.uoc.lti.jwt.km.kms.JwtKMSBuilder;
 import io.jsonwebtoken.JwtBuilder;
-import io.jsonwebtoken.Jwts;
 import lombok.RequiredArgsConstructor;
 
 import java.util.Date;

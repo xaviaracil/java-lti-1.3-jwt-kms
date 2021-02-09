@@ -1,4 +1,4 @@
-package edu.uoc.lti.jwt.kms;
+package edu.uoc.lti.jwt.km.kms;
 
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.impl.crypto.JwtSigner;

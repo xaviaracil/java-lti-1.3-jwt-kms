@@ -1,4 +1,4 @@
-package edu.uoc.lti.jwt;
+package edu.uoc.lti.jwt.km;
 
 /**
  * @author xaracil@uoc.edu

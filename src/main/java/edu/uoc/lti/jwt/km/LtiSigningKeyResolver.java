@@ -1,4 +1,4 @@
-package edu.uoc.lti.jwt;
+package edu.uoc.lti.jwt.km;
 
 import com.auth0.jwk.Jwk;
 import com.auth0.jwk.JwkException;

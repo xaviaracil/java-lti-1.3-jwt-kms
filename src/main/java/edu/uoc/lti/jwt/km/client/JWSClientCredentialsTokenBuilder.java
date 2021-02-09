@@ -1,7 +1,6 @@
-package edu.uoc.lti.jwt.client;
+package edu.uoc.lti.jwt.km.client;
 
-import edu.uoc.lti.jwt.kms.JwtKMSBuilder;
-import io.jsonwebtoken.Jwts;
+import edu.uoc.lti.jwt.km.kms.JwtKMSBuilder;
 import lombok.RequiredArgsConstructor;
 
 import java.util.Date;

@@ -1,4 +1,4 @@
-package edu.uoc.lti.jwt.kms;
+package edu.uoc.lti.jwt.km.kms;
 
 import com.amazonaws.services.kms.AWSKMS;
 import com.amazonaws.services.kms.AWSKMSClientBuilder;
