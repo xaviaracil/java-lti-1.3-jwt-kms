@@ -1,6 +1,6 @@
-# LTI 1.3 JWT
+# LTI 1.3 JWT KMS
 
-Library with JWT implementations of LTI's JWT interfaces
+Library with JWT implementations of LTI's JWT interfaces using AWS KMS
 
 ## Usage
 
@@ -21,8 +21,8 @@ Library with JWT implementations of LTI's JWT interfaces
 ```xml
   <dependency>
     <groupId>edu.uoc.elc.lti</groupId>
-    <artifactId>lti-13-jwt</artifactId>
-    <version>0.0.2</version>
+    <artifactId>lti-13-jwt-kms</artifactId>
+    <version>0.0.1</version>
   </dependency>
 ```
 
